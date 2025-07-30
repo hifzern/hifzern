@@ -12,3 +12,20 @@
 
 ![image](https://github.com/user-attachments/assets/38f7d8c6-07db-4fdf-af21-b12ac222cfbb)
 
+---
+
+> *Nukes are loud. Zero-days are silent — and far more dangerous.*
+
+
+---
+
+Minimal words.  
+Maximum intent.  
+Reverse everything.
+
+---
+
+🔒 Studying how things break, by breaking them first.  
+🧷 Sometimes writes, mostly rewrites.
+
+---
