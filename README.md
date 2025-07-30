@@ -2,8 +2,7 @@
 ![image](https://github.com/user-attachments/assets/4843488b-6b40-4275-8156-6d61d73f499c)
 -->
 
-<h1 align="center">Do some security  stuff</h1>
-~~teks yang dicoret~~
+<h1 align="center">Do some security stuff</h1>
 
 <!--
 <h3 align="center">I am adh1ka. I love to learn anything about Information Security!</h3>
