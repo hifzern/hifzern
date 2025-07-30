@@ -21,7 +21,7 @@
 
 ---
 
-> *Nukes are loud. Zero-days are silent — and far more dangerous.*
+> *Nukes are loud. Zero-days are silent.*
 
 ---
 
