@@ -14,11 +14,6 @@
 
 ---
 
-> *Nukes are loud. Zero-days are silent — and far more dangerous.*
-
-
----
-
 🕳️ Identity: Unknown  
 📡 Frequency: Irregular  
 🧬 Method: Recursive dissection  
@@ -26,7 +21,12 @@
 
 ---
 
-🔒 Studying how things break, by breaking them first.  
-🧷 Sometimes writes, mostly rewrites.
+> *Nukes are loud. Zero-days are silent — and far more dangerous.*
+
+---
+
+Nothing personal.  
+Nothing professional.  
+Just code, and the ghosts it leaves behind.
 
 ---
