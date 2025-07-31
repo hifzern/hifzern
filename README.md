@@ -19,14 +19,4 @@
 🧬 Method: Recursive dissection  
 🕯️ Motive: Undisclosed
 
----
 
-> *Nukes are loud. Zero-days are silent.*
-
----
-
-Nothing personal.  
-Nothing professional.  
-Just code, and the ghosts it leaves behind.
-
----
