@@ -8,5 +8,5 @@
 📡 Frequency: Irregular  
 🧬 Method: Recursive dissection  
 🕯️ Motive: Undisclosed
-💼 Job : Tukang Gedor
+
 
